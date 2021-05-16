@@ -1,0 +1,34 @@
+{
+    "healingItemsCapacity": 4000,
+    "painKillers": {
+        "capacity": 20,
+        "duration": 5000
+    },
+    "splint": {
+        "capacity": 10
+    },
+    "item_meds_alusplint": {
+        "capacity": 10
+    },
+    "bandage": {
+        "capacity": 10
+    },
+    "bandage_army": {
+        "capacity": 10
+    },
+    "core_medical_surgical_kit": {
+        "capacity": 50
+    },
+    "survival_first_aid_rollup_kit": {
+        "capacity": 50
+    },
+    "item_meds_esmarch": {
+        "capacity": 10
+    },
+    "item_meds_cat": {
+        "capacity": 10
+    },
+    "item_meds_hemostatic": {
+        "capacity": 10
+    }
+}
